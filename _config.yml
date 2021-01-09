@@ -137,5 +137,5 @@ collections:
     output: true
     permalink: /:path/
     
-# Markdown rendering
+# Markdown rendering 
 markdown: kramdown
