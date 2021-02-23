@@ -57,6 +57,10 @@ features                                  :
   - title                                 : Blood oxygen 
     description                           : Track your blood saturation level.
     fontawesome_icon_name                 : tint
+    
+  - title                                 : Widgets 
+    description                           : View today's physical activity
+    fontawesome_icon_name                 : th-large
 
 #   - title                                 : Smart App Banner
 #     description                           : Display a smart app banner on iOS devices.
